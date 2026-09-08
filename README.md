@@ -1,5 +1,7 @@
 # ScamShield — Frontend (Netlify + Hugging Face Static Space)
 
+Due to an issue and the Thounsands number of files we are unable to upload node modules but we will try to add it as soon as possible.
+
 A polished, presentation-ready React + Vite frontend for ScamShield. It runs **entirely in the
 browser** using ScamShield's built-in rule-based **Pattern Engine** — no backend, no API token,
 no server at all. This makes it fully static-hostable on both **Netlify** and a **Hugging Face
@@ -79,3 +81,5 @@ A Static Space serves the built `dist/` folder for free.
 - Loading, empty, error states
 - Copy-results, reset, responsive layout, keyboard-friendly controls
 - Clearly labeled "ScamShield Pattern Analysis" — never pretends to be AI model output
+
+Due to an issue and the Thounsands number of files we are unable to upload node modules but we will try to add it as soon as possible.
